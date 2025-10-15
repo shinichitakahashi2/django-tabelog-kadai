@@ -1,0 +1,1 @@
+web: gunicorn kadai_002.wsgi --log-file -
