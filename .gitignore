@@ -1,0 +1,9 @@
+# 除外するディレクトリ
+logs/
+temp/
+
+# 除外する特定のファイル
+*.log
+settings.py
+.env
+
